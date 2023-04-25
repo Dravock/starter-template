@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
+/* CUSTOM CSS IMPORTS */
 @import "includes/css/custom/App-Start.css"; 
 @import "includes/css/base.css"; 
