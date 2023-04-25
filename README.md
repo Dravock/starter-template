@@ -2,16 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-I have added some Libiarys and some Files for the Start with React.js
-
-Included:
-    1. Tailwindcss
-    2. Flowbite Tailwind Libiary
-    3. Axios
-    4. dotenv
-    5. react-router-dom
-    6. universal-cookie
-    7. Default Components
+## Included
+    I have added some Libiarys and some Files for the Start with React.js
+        1. Tailwindcss
+        2. Flowbite Tailwind Libiary
+        3. Axios
+        4. dotenv
+        5. react-router-dom
+        6. universal-cookie
+        7. Default Components
 
 ## Start Project
 
