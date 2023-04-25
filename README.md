@@ -5,10 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 I have added some Libiarys and some Files for the Start with React.js
 
 Included:
-    - Tailwindcss                   - react-router-dom
-    - Flowbite Tailwind Libiary     - universal-cookie
-    - Axios                         - Default Components
-    - dotenv
+    1. Tailwindcss
+    2. Flowbite Tailwind Libiary
+    3. Axios
+    4. dotenv
+    5. react-router-dom
+    6. universal-cookie
+    7. Default Components
 
 ## Start Project
 
@@ -24,7 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-##
+## Created by
 
 Have fun with this ! :)
 
