@@ -1,5 +1,6 @@
 // PATHS IMPORT
 import AppS from './Pages/Public/AppS.js'
+import  Header from  './components/Header/Header.js'
 
 // IMPORTS FOR WEBSITE DESIGN
 import { useEffect } from 'react';
@@ -30,13 +31,16 @@ return (
     <>
         <BrowserRouter basename='/'>
             {/* REACT ROUTER ROUTES */}
-            <Routes>
-                {/* PUBLIC PAGES */}
-                <Route path='/' element={<AppS />}/>
+            <Header />
+            <div className='container mx-auto'>
+                <Routes>
+                    {/* PUBLIC PAGES */}
+                    <Route path='/' element={<AppS />}/>
 
-                {/* Private Pages */}
+                    {/* Private Pages */}
 
-            </Routes>
+                </Routes>
+            </div>
         </BrowserRouter>
     </>
 )};
